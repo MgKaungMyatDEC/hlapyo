@@ -89,14 +89,15 @@
    "update_versionCode":1,
    "playstore_link":"",
    "download_link":"",
-
    
    "noti_icon":"https://media3.giphy.com/media/VVmc1OwnoNKu06pqRt/giphy.gif?cid=ecf05e47nkxv9wkz6kk3biqvd0zxe1kokxtz5z7obvspxfax&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-   "noti_title":"Noti",
-   "noti_image":"https://cdna.artstation.com/p/assets/images/images/042/676/328/original/leo-bryan-arief-sprite-0002.gif?1635169542",
-   "noti_message":"We have one of notification for you that is special. Here is to get Preminium feature on this Application. Click ‘Done’ to get below.",
-   "show_cancel":true,
+   "noti_title":"5Starsပေးပါအုံး",
+   "noti_image":"https://i.imgur.com/aCrc7fA.jpg",
+   "noti_message":"ညိုကီတို့...\nပလေးစတိုးမှာ ကြယ်၅လုံးပေးပေးပါအုံးဗျို့။ အသစ်တွေလဲထပ်တင်ပေးအုံးမယ်",
+   "show_cancel":false,
    "noti_show":true,
-   "noti_done_text":"Rate",
+   "noti_done_text":"ကြယ်ပေးမယ်",
    "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.app"
+
+   
 }
