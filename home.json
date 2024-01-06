@@ -2,17 +2,17 @@
    "ad_type":"startapp",
    "startapp_ad_duration":"1000",
    "startapp_add":"true",
-   "startapp_home_adview_1":"true",
-   "startapp_home_adview_2":"true",
-   "startapp_home_adview_3":"true",
-   "startapp_player_loader_adviews":"true",
-   "startapp_detail_top_adviews":"true",
-   "startapp_detail_big_adviews":"true",
-   "startapp_download_tool_adviews":"true",
-   "startapp_movies_bottom":"true",
-   "startapp_home_bottom":"true",
-   "startapp_movies_download":"true",
-   "startapp_link_download":"true",
+   "startapp_home_adview_1":"false",
+   "startapp_home_adview_2":"false",
+   "startapp_home_adview_3":"false",
+   "startapp_player_loader_adviews":"false",
+   "startapp_detail_top_adviews":"false",
+   "startapp_detail_big_adviews":"false",
+   "startapp_download_tool_adviews":"false",
+   "startapp_movies_bottom":"false",
+   "startapp_home_bottom":"false",
+   "startapp_movies_download":"false",
+   "startapp_link_download":"false",
    "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
    "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_muscrewdo&alt=json",
    "vip_add_image":"",
@@ -22,65 +22,64 @@
          "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOr7izYw0pdq7uJUsJfWWSnBMdUPFLySJRVmGo1vd7yA3TqxAmft5X-hvqoNv6xtOxV9jMCxjqs5lKRhslIpltuMgnwtUouyFhpKDbVUJYF9af8ed2-tk59jZs04MKQjiZGUvtuVIy3SV_GtHb9kDO3oVxtSjWwjkSufEwngknUgfZLpBn2nP2-8fMm-c/s1000/1000x650%20gif.gif",
          "redirect_url":"https://bit.ly/3SLamWA"
       }
-      
    ],
    "home_adview_1":[
-    
+      
    ],
    "home_adview_2":[
       
    ],
    "home_adview_3":[
-  
+      
    ],
    "player_loader_adviews":[
-       
+      
    ],
    "detail_top_adviews":[
-    
+      
    ],
    "detail_bottom_adviews":[
-    
+      
    ],
    "movies_bottom":[
-  
+      
    ],
    "home_bottom":[
-   
+      
    ],
    "movies_download":[
-   
+      
    ],
    "link_download":[
-    
+      
    ],
-   "show_title_1":"Mmporn မြန်မာပွန်း 🔥",
-   "movie_url_1":"https://mmporns.com/",
-   "movie_category_url_1":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
+   "show_title_1":"XBurma",
+   "movie_url_1":"https://www.xburma.com/latest-updates/",
+   "movie_category_url_1":"https://raw.githubusercontent.com/MgKaungMyatDEC/hlapyo/main/category/xburmacategory.json",
    "vip_1":"false",
    "show_title_2":"MM HD Hub",
    "movie_url_2":"https://mmhdhub.com/archives/category/myanmar",
-   "movie_category_url_2":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
+   "movie_category_url_2":"https://raw.githubusercontent.com/MgKaungMyatDEC/hlapyo/main/category/mmhdhubcategory.json",
    "vip_2":"false",
    "show_title_3":"SaMusar",
    "movie_url_3":"https://www.samusar.com/latest-updates/",
-   "movie_category_url_3":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
+   "movie_category_url_3":"https://raw.githubusercontent.com/MgKaungMyatDEC/hlapyo/main/category/samusarcategory.json",
    "vip_3":"false",
    "show_title_4":"Founddie",
    "movie_url_4":"https://founddie.com/archives/category/homemade/",
-   "movie_category_url_4":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
+   "movie_category_url_4":"",
    "vip_4":"false",
    "show_title_5":"မြန်မာ အပြာကားနှင့်စာတန်းထိုး✅",
    "movie_url_5":"https://myanmarsexstory.com/category/japan22/",
-   "movie_category_url_5":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
+   "movie_category_url_5":"",
    "vip_5":"false",
-   "show_title_6":"XBurma",
-   "movie_url_6":"https://www.xburma.com/latest-updates/",
-   "movie_category_url_6":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/Maynoe.com",
+   "show_title_6":"Mmporn မြန်မာပွန်း 🔥",
+   "movie_url_6":"https://mmporns.com/",
+   "movie_category_url_6":"",
    "vip_6":"false",
    "show_title_7":"Xnxx( VPNလိုသည်)ဖောင်းဒိုင်းကြမ်းများ",
    "movie_url_7":"https://www.xnxx.com/todays-selection",
-   "movie_category_url_7":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/xnxx.category",
+   "movie_category_url_7":"https://raw.githubusercontent.com/MgKaungMyatDEC/hlapyo/main/category/xnxxmyanmar.json",
    "vip_7":"false",
    "update_title":"Update title",
    "update_icon":"",
@@ -89,7 +88,6 @@
    "update_versionCode":1,
    "playstore_link":"",
    "download_link":"",
-   
    "noti_icon":"https://media3.giphy.com/media/VVmc1OwnoNKu06pqRt/giphy.gif?cid=ecf05e47nkxv9wkz6kk3biqvd0zxe1kokxtz5z7obvspxfax&ep=v1_gifs_search&rid=giphy.gif&ct=g",
    "noti_title":"5Starsပေးပါအုံး",
    "noti_image":"https://i.imgur.com/aCrc7fA.jpg",
@@ -98,6 +96,4 @@
    "noti_show":true,
    "noti_done_text":"ကြယ်ပေးမယ်",
    "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.hlapyo"
-
-   
 }
